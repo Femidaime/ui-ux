@@ -9,34 +9,6 @@ Curated list for people choosing UI/UX as a field in Tech
 * [Information Architecture](#information-architecture)
 * [User Testing and Heuristics Evaluation](#user-testing-and-heuristics-evaluation)
 
-##### Designers to Follow
-* Ademola Adekanbi: [Twitter](https://twitter.com/adekanbi_rex)
-* Josiah Endurance: [Twitter](https://twitter.com/hendurhance)
-* Jaden Tega: [Twitter](https://twitter.com/dontegio)
-* UX Collective: [Twitter](https://twitter.com/uxdesigncc)
-* George Moller: [Twitter](https://twitter.com/_georgemoller)
-* Druids: [Twitter](https://twitter.com/druids01)
-* Kigsley Iheonye: [Twitter](https://twitter.com/kingsleyiheonye)
-* Timothy Achumba: [Twitter](https://twitter.com/timothyachumba)
-* Olamide Towobola: [Twitter](https://twitter.com/OlamideTowobola)
-* Sunil Kumar: [Twitter](https://twitter.com/sunilc_)
-* Victor Onazi: [Twitter](https://twitter.com/VictorOnazi_)
-* Akin Boluwatife: [Twitter](https://twitter.com/akinboulex)
-* Ravin: [Twitter](https://twitter.com/ravinashere)
-* Tunbosun Tobilola: [Twitter](https://twitter.com/Futureio)
-* Daniel Abayomi: [Twitter](https://twitter.com/pixelDahn)
-* Hammed Taiwo: [Twitter](https://twitter.com/rapzzyofficial)
-* Femi : [Twitter](https://twitter.com/TheFemiDigital)
-* Akin: [Twitter](https://twitter.com/akintheodox)
-* Ari Alasah: [Twitter](https://twitter.com/Yours_Areeh)
-* Fiyin : [Twitter](https://twitter.com/fiyindesign)
-* Fele Omolola: [Twitter](https://twitter.com/fele_omolola)
-* Namso Ukpanah: [Twitter](https://twitter.com/namsoukpanah)
-* Joey Banks: [Twitter](https://twitter.com/joeyabanks)
-* Seyi Martins: [Twitter](https://twitter.com/seyimartinz)
-* Sam Adekunle: [Twitter](https://twitter.com/samoflagos)
-* Seyi Oniyitan: [Twitter](https://github.com/seyioniyitan)
-
 &nbsp;&nbsp;&nbsp;
 
 
